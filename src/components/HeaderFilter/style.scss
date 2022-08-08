@@ -1,0 +1,30 @@
+.header__search{ 
+position: absolute;
+ align-items: center;
+justify-content: space-around;
+width: 1110px;
+height: 80px;
+bottom: -40px;
+background: #FFFFFF;
+border-radius: 6px;
+display: flex;
+left: 54px;
+}
+.header__button{
+ background-color:  #5964E0;
+ border-radius: 5px;
+ border: #FFFFFF;
+color: #FFFFFF;
+width: 123px;
+height: 48px;
+left: 1136px;
+top: 136px;
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+margin: 16px;
+cursor: pointer;
+
+}
